@@ -1,0 +1,126 @@
+html{
+    scroll-behavior: smooth;
+}
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+
+}
+.nav:hover{
+    color: lightgray;
+}
+a{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:18px ;
+    text-decoration: none;
+}
+.section_1{
+    display: flex;
+    justify-content: center;
+}
+.img_1{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+}
+.contex{
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    
+}
+p1{
+    color: rgb(172, 166, 166);
+}
+
+
+.btn_1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.section_2{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.contex_2{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+
+}
+.img_2{
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+}
+.section_3{
+    display: flex;
+    justify-content: center;
+}
+.img_3{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+}
+.contex_3{
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+}
+button:hover{
+    background-color: skyblue;
+    color: black;
+}
+.last{
+    background-color: black;
+    padding: 15px 0;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.a{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+ul{
+    color: white;
+    list-style: none;
+}
+.company{
+    float: left;
+}
+.Support{
+    float: left;
+    margin-left: 39px;
+}
+.SEO{
+    float: left;
+    margin-left: 39px;
+}
+.legal{
+    float: left;
+    margin-left: 39px;
+}
+.follow{
+    float: left;
+    margin-left: 39px;
+}
+.a:hover{
+    color: lightgray;
+}
